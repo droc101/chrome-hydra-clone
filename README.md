@@ -10,3 +10,8 @@ It then starts the payload
 Opens a popup
 
 If you close a popup, 2 more open
+
+
+har, har, har
+
+This crashed chrome VERY quickly from spamming crtl + w
